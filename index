@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Welcome to my page!</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to my page!</h1>
+        <p>On this site, you will discover many lists containing all my favorite music, games, and shows</p>
+    </header>
+    <nav>
+        <h4>Navigation</h4>
+        <ul>
+            <li><a href="music.html" title="Favorite Music">Music</a></li>
+            <li><a href="games.html" title="Favorite Games">Games</a></li>
+            <li><a href="shows.html" title="Favorite Shows">Shows</a></li>
+        </ul>
+    </nav>
+</body>
